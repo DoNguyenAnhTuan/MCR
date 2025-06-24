@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "EIU MCR", "EIU MCR.cproj", "{EC5ACE19-6C00-4FB3-99D3-27C3546ECD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5ACE19-6C00-4FB3-99D3-27C3546ECD48}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EC5ACE19-6C00-4FB3-99D3-27C3546ECD48}.Debug|AVR.Build.0 = Debug|AVR
+		{EC5ACE19-6C00-4FB3-99D3-27C3546ECD48}.Release|AVR.ActiveCfg = Release|AVR
+		{EC5ACE19-6C00-4FB3-99D3-27C3546ECD48}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
